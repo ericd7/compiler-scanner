@@ -1,0 +1,17 @@
+Reading file test.pls ....Please wait
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  6
+The current size of the buffer is:  5
+
+Printing buffer contents:
+
+"dead
+
+Scanning source file...
+
+Token		Attribute
+----------------------------------
+ERR_T		"dead
+SEOF_T
